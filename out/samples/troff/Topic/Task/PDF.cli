@@ -1,0 +1,29 @@
+
+.ad l
+
+.ll 72
+
+.ce 1000
+\fBPDF\fR
+.ce 0
+
+.sp 2
+Des fichier .dita et un fichier .ditamap
+.sp 2
+Notre but ici vas être de créer un PDF à partir des differents
+document que vous aurez réalisé.
+.sp 2
+1. Aller dans le dossier DITA-OT1.5.4
+.sp 2
+2. Double cliqué sur startcmd.bat
+.sp 2
+3. Dans la console qui vient de se lancer taper ant all -f
+   build_demo.xml
+.sp 2
+4. appuié sur Entrée et attendre l'affichage du "BUILD
+   SUCCESSFUL"
+.sp 2
+5. Aller maintenant dans out/sample/pdf puis ouvrer le magnifique
+   PDF que vous venez de fabriquer :)
+.sp 2
+Sujet parent : Publication

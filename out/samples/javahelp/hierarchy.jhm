@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0">
+   <mapID target="Topic_Documentation" url="Topic/Documentation.html"/>
+   <mapID target="Topic_Task_Installation" url="Topic/Task/Installation.html"/>
+   <mapID target="Topic_Task_Lancer" url="Topic/Task/Lancer.html"/>
+   <mapID target="Topic_Publication" url="Topic/Publication.html"/>
+   <mapID target="Topic_Task_PDF" url="Topic/Task/PDF.html"/>
+</map>
