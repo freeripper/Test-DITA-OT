@@ -1,0 +1,19 @@
+
+<html>
+<head>
+<!-- Sitemap 1.0 -->
+</head>
+<body>
+<UL>
+<LI><OBJECT type="text/sitemap"><param name="Name" value="Documentation"/><param name="Local" value="Topic/Documentation.html"/></OBJECT><UL>
+<LI><OBJECT type="text/sitemap"><param name="Name" value="Installation d'Eclipse"/><param name="Local" value="Topic/Task/Installation.html"/></OBJECT>
+</LI>
+<LI><OBJECT type="text/sitemap"><param name="Name" value="Lancer Eclipse"/><param name="Local" value="Topic/Task/Lancer.html"/></OBJECT>
+</LI></UL>
+</LI>
+<LI><OBJECT type="text/sitemap"><param name="Name" value="Publication"/><param name="Local" value="Topic/Publication.html"/></OBJECT><UL>
+<LI><OBJECT type="text/sitemap"><param name="Name" value="PDF"/><param name="Local" value="Topic/Task/PDF.html"/></OBJECT>
+</LI></UL>
+</LI></UL>
+</body>
+</html>

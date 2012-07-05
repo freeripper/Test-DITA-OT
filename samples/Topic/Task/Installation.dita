@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd" >
+<task id="Instalation" xml:lang="fr-FR">
+	<title>Installation d'Eclipse</title>
+	<prolog>
+		<author>stage</author>
+		
+	</prolog>
+	<taskbody>
+	
+	<prereq><p>Un ordinateur sous windows, une connection internet.</p></prereq>
+	<context> <p>Notre but ici vas être d'instaler Eclipse sur votre machine.</p> </context>
+	<steps>
+		<step><cmd>Verifier que JAVA est bien installer sur votre machine sinon suivre le premier lien.<image href="../../image/LogoJava.png" alt="logo JAVA"/> </cmd> </step>
+		<step><cmd>Telecharger Eclipse et déziper le. (2éme lien)<image href="../../image/eclipse_ide_for_java_ee_developers.png" alt="logo Eclipse" /> </cmd></step>
+		<step><cmd>Télécharger le fichier de traduction Babel (3éme lien)</cmd></step>
+		<step><cmd>Déziper le fichier Babel et mettre les fichier extrait dans les bon dossier d'Eclipse</cmd></step>
+		<step><cmd>Télécharger DITA-OP (4émé lien Seulement l'étatpe "Downloading the plugins zip file")</cmd></step>
+		<step><cmd>Faire comme l'étape 4</cmd></step>
+	</steps>
+	<result><p>Normalement Eclipse est installer sur votre machine et  prét a fonctionner.</p></result>
+	</taskbody>
+	
+	<related-links>
+			<link  href="http://www.java.com/fr/download/" format="html" />
+			<link  href="http://www.eclipse.org/downloads/download.php?file=/technology/epp/downloads/release/indigo/SR2/eclipse-jee-indigo-SR2-win32.zip" format="html"/>
+			<link  href="http://download.eclipse.org/technology/babel/babel_language_packs/R0.9.1/indigo/indigo.php" format="html" />
+			<link  href="http://www.dita-op.org/documentation/downloading-the-editor/" format="html" />
+			<link  href="mailto:francois.rousset@ymail.com" format="html"> <linktext>francois.rousset@ymmail.com</linktext> </link>
+		
+	</related-links>
+	
+</task>

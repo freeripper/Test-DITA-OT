@@ -1,0 +1,34 @@
+[OPTIONS]
+
+Auto Index=Yes
+Binary TOC=Yes
+Compatibility=1.1 or later
+
+Compiled file=hierarchy.chm
+Contents file=hierarchy.hhc
+Default Window=Main
+Full-text search=Yes
+Display compile progress=No
+Index file=hierarchy.hhk
+Binary Index=No
+
+Language=0x040c French (FRANCE)
+Default topic=Topic/Documentation.html
+Title=Documentation de cr&eacute;ation de Doc avec Dita
+    
+[WINDOWS]
+Main="Documentation de cr&eacute;ation de Doc avec Dita","hierarchy.hhc","hierarchy.hhk","Topic/Documentation.html","Topic/Documentation.html",,,,,0x72520,,0x70380E,,,,,,,,0
+    
+
+
+[FILES]
+Topic/Documentation.html
+Topic/Publication.html
+Topic/Task/Installation.html
+Topic/Task/Lancer.html
+Topic/Task/PDF.html
+Topic/test.html
+
+
+[INFOTYPES]
+

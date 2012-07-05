@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?NLS TYPE="org.eclipse.help.toc"?>
+<toc label="Documentation de création de Doc avec Dita" topic="Topic/Documentation.html"><topic label="Documentation" href="Topic/Documentation.html"><topic label="Installation d'Eclipse" href="Topic/Task/Installation.html"/><topic label="Lancer Eclipse" href="Topic/Task/Lancer.html"/></topic><topic label="Publication" href="Topic/Publication.html"><topic label="PDF" href="Topic/Task/PDF.html"/></topic></toc>

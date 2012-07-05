@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE toc
+  PUBLIC "-//Sun Microsystems Inc.//DTD JavaHelp TOC Version 1.0//EN" "http://java.sun.com/products/javahelp/toc_1_0.dtd">
+<toc version="1.0">
+   <tocitem text="Documentation" target="Topic_Documentation">
+      <tocitem text="Installation d'Eclipse" target="Topic_Task_Installation"/>
+      <tocitem text="Lancer Eclipse" target="Topic_Task_Lancer"/>
+   </tocitem>
+   <tocitem text="Publication" target="Topic_Publication">
+      <tocitem text="PDF" target="Topic_Task_PDF"/>
+   </tocitem>
+</toc>

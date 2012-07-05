@@ -1,0 +1,267 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE article
+  PUBLIC "-//OASIS//DTD DocBook XML V4.2//EN" "http://www.oasis-open.org/docbook/xml/4.2/docbookx.dtd">
+<article>Documentation de création de Doc avec Dita<para/>
+   <section remap="topic" id="Documentation">
+      <sectioninfo id="prlgd9e8" remap="prolog">
+         <author id="athrd9e10" remap="author">
+            <othername>stage</othername>
+         </author>
+      </sectioninfo>
+      <title id="ttld9e5" remap="title">Documentation</title>
+		    <para id="parad9e16" remap="p">Le but de cette première Doc vas être de vous expliquer comment installer Eclipse sur votre machine puis de crée de la documentation a partir de là.</para>
+		    <para id="parad9e19" remap="p">
+		       <orderedlist id="old9e21" remap="ol">
+		          <listitem id="lid9e23" remap="li">
+               <para remap="#PCDATA"> Installer Eclipse </para>
+            </listitem>
+		          <listitem id="lid9e26" remap="li">
+               <para remap="#PCDATA">Lancer Eclipse</para>
+            </listitem>
+		          <listitem id="lid9e29" remap="li">
+               <para remap="#PCDATA">Créer une documentation</para>
+            </listitem>
+		          <listitem id="lid9e32" remap="li">
+               <para remap="#PCDATA">La sortir au format voulu</para>
+            </listitem>
+		       </orderedlist>
+		    </para>
+	     <itemizedlist>
+         <title>Related links</title>
+         <listitem>
+            <para>
+               <xref linkend="Instalation" id="xrefd9e41" remap="link"/>
+            </para>
+         </listitem>
+         <listitem>
+            <para>
+               <xref linkend="lancer" id="xrefd9e46" remap="link"/>
+            </para>
+         </listitem>
+		       <listitem>
+            <itemizedlist>
+               <listitem>
+                  <para>
+                     <ulink url=""/>
+                  </para>
+               </listitem>
+               <listitem>
+                  <para>
+                     <ulink url=""/>
+                  </para>
+               </listitem>
+            </itemizedlist>
+         </listitem>
+	     </itemizedlist>
+      <section remap="task" id="Instalation">
+         <sectioninfo id="prlgd20e8" remap="prolog">
+            <author id="athrd20e10" remap="author">
+               <othername>stage</othername>
+            </author>
+         </sectioninfo>
+         <title id="ttld20e5" remap="title">Installation d'Eclipse</title>
+	
+	        <para id="parad20e17" remap="p">Un ordinateur sous windows, une connection internet.</para>
+	        <para id="parad20e22" remap="p">Notre but ici vas être d'instaler Eclipse sur votre machine.</para>
+	        <orderedlist id="old20e26" remap="steps">
+		          <listitem id="lid20e28" remap="step">
+               <para remap="#PCDATA">
+                  <phrase id="phrsd20e29" remap="cmd">Verifier que JAVA est bien installer sur votre machine sinon suivre le premier lien.<mediaobject id="imgd20e31" remap="image">
+                        <imageobject>
+                           <imagedata fileref="../../image/LogoJava.png"/>
+                        </imageobject>
+                        <textobject remap="alt_attribute">
+                           <phrase remap="#PCDATA">logo JAVA</phrase>
+                        </textobject>
+                     </mediaobject> 
+                  </phrase> 
+               </para>
+            </listitem>
+		          <listitem id="lid20e35" remap="step">
+               <para remap="#PCDATA">
+                  <phrase id="phrsd20e36" remap="cmd">Telecharger Eclipse et déziper le. (2éme lien)<mediaobject id="imgd20e38" remap="image">
+                        <imageobject>
+                           <imagedata fileref="../../image/eclipse_ide_for_java_ee_developers.png"/>
+                        </imageobject>
+                        <textobject remap="alt_attribute">
+                           <phrase remap="#PCDATA">logo Eclipse</phrase>
+                        </textobject>
+                     </mediaobject> 
+                  </phrase>
+               </para>
+            </listitem>
+		          <listitem id="lid20e41" remap="step">
+               <para remap="#PCDATA">
+                  <phrase id="phrsd20e42" remap="cmd">Télécharger le fichier de traduction Babel (3éme lien)</phrase>
+               </para>
+            </listitem>
+		          <listitem id="lid20e45" remap="step">
+               <para remap="#PCDATA">
+                  <phrase id="phrsd20e46" remap="cmd">Déziper le fichier Babel et mettre les fichier extrait dans les bon dossier d'Eclipse</phrase>
+               </para>
+            </listitem>
+		          <listitem id="lid20e49" remap="step">
+               <para remap="#PCDATA">
+                  <phrase id="phrsd20e50" remap="cmd">Télécharger DITA-OP (4émé lien Seulement l'étatpe "Downloading the plugins zip file")</phrase>
+               </para>
+            </listitem>
+		          <listitem id="lid20e54" remap="step">
+               <para remap="#PCDATA">
+                  <phrase id="phrsd20e55" remap="cmd">Faire comme l'étape 4</phrase>
+               </para>
+            </listitem>
+	        </orderedlist>
+	        <para id="parad20e60" remap="p">Normalement Eclipse est installer sur votre machine et  prét a fonctionner.</para>
+	        <itemizedlist>
+            <title>Related links</title>
+            <listitem>
+               <para>
+                  <xref linkend="Documentation" id="xrefd20e66" remap="link"/>
+               </para>
+            </listitem>
+			         <listitem>
+               <para>
+                  <ulink url="http://www.java.com/fr/download/"/>
+               </para>
+            </listitem>
+			         <listitem>
+               <para>
+                  <ulink url="http://www.eclipse.org/downloads/download.php?file=/technology/epp/downloads/release/indigo/SR2/eclipse-jee-indigo-SR2-win32.zip"/>
+               </para>
+            </listitem>
+			         <listitem>
+               <para>
+                  <ulink url="http://download.eclipse.org/technology/babel/babel_language_packs/R0.9.1/indigo/indigo.php"/>
+               </para>
+            </listitem>
+			         <listitem>
+               <para>
+                  <ulink url="http://www.dita-op.org/documentation/downloading-the-editor/"/>
+               </para>
+            </listitem>
+			         <listitem>
+               <para>
+                  <ulink url="mailto:francois.rousset@ymail.com"/>
+               </para>
+            </listitem>
+		
+	        </itemizedlist>
+      </section>
+      <section remap="task" id="lancer">
+         <sectioninfo id="prlgd22e8" remap="prolog">
+            <author id="athrd22e10" remap="author">
+               <othername>stage</othername>
+            </author>
+         </sectioninfo>
+         <title id="ttld22e5" remap="title">Lancer Eclipse</title>
+	
+		       <orderedlist id="old22e16" remap="steps">
+			         <listitem id="lid22e18" remap="step">
+               <para remap="#PCDATA"> 
+                  <phrase id="phrsd22e20" remap="cmd"> Faite un double clic sur l'icone d'éclipse sur votre bureau et attendre qu'Eclipse se lance </phrase> 
+               </para>
+            </listitem>
+			         <listitem id="lid22e24" remap="step">
+               <para remap="#PCDATA"> 
+                  <phrase id="phrsd22e26" remap="cmd"> Cliquez sur Fichier/Nouveau/Projet </phrase>
+               </para>
+            </listitem>
+			         <listitem id="lid22e29" remap="step">
+               <para remap="#PCDATA"> 
+                  <phrase id="phrsd22e31" remap="cmd"> remplissez les champs requis </phrase> 
+               </para>
+            </listitem>
+			         <listitem id="lid22e35" remap="step">
+               <para remap="#PCDATA"> 
+                  <phrase id="phrsd22e37" remap="cmd"> hv....</phrase> 
+               </para>
+            </listitem>
+		       </orderedlist>
+	
+	        <itemizedlist>
+            <title>Related links</title>
+            <listitem>
+               <para>
+                  <xref linkend="Documentation" id="xrefd22e45" remap="link"/>
+               </para>
+            </listitem>
+         </itemizedlist>
+      </section>
+   </section>
+   <section remap="topic" id="Publication">
+      <sectioninfo id="prlgd74e11" remap="prolog">
+         <abstract>
+            <para id="shrtdscd74e8" remap="shortdesc">Je vais vous expliqué comment publier la doc a partir de DITA-OT</para>
+         </abstract>
+         <author id="athrd74e13" remap="author">
+            <othername>stage</othername>
+         </author>
+      </sectioninfo>
+      <title id="ttld74e5" remap="title">Publication</title>
+      <para id="parad74e8" remap="shortdesc">Je vais vous expliqué comment publier la doc a partir de DITA-OT</para>
+	     <para id="parad74e19" remap="p"> Le but de cette seconde doc vas être de vous expliquer comment publier vos document à partir des .dita et des .ditamap</para>
+	
+	     <itemizedlist>
+         <title>Related links</title>
+         <listitem>
+            <para>
+               <xref linkend="PDF" id="xrefd74e26" remap="link"/>
+            </para>
+         </listitem>
+		       <listitem>
+            <itemizedlist>
+               <listitem>
+                  <para>
+                     <ulink url=""/>
+                  </para>
+               </listitem>
+            </itemizedlist>
+         </listitem>
+	     </itemizedlist>
+      <section remap="task" id="PDF">
+         <sectioninfo id="prlgd77e8" remap="prolog">
+            <author id="athrd77e10" remap="author">
+               <othername>stage</othername>
+            </author>
+         </sectioninfo>
+         <title id="ttld77e5" remap="title">PDF</title>
+		       <para id="sctnd77e16" remap="prereq">Des fichier .dita et un fichier .ditamap</para>
+		       <para id="parad77e21" remap="p">Notre but ici vas être de créer un PDF à partir des differents document que vous aurez réalisé.</para>
+		       <orderedlist id="old77e24" remap="steps">
+			         <listitem id="lid77e26" remap="step">
+               <para remap="#PCDATA"> 
+                  <phrase id="phrsd77e28" remap="cmd"> Aller dans le dossier DITA-OT1.5.4 </phrase> 
+               </para>
+            </listitem>
+			         <listitem id="lid77e32" remap="step">
+               <para remap="#PCDATA"> 
+                  <phrase id="phrsd77e34" remap="cmd"> Double cliqué sur startcmd.bat</phrase> 
+               </para>
+            </listitem>
+			         <listitem id="lid77e38" remap="step">
+               <para remap="#PCDATA"> 
+                  <phrase id="phrsd77e40" remap="cmd"> Dans la console qui vient de se lancer taper ant all -f build_demo.xml </phrase> 
+               </para>
+            </listitem>
+			         <listitem id="lid77e44" remap="step">
+               <para remap="#PCDATA"> 
+                  <phrase id="phrsd77e46" remap="cmd"> appuié sur Entrée et attendre l'affichage du "BUILD SUCCESSFUL" </phrase> 
+               </para>
+            </listitem>
+			         <listitem id="lid77e50" remap="step">
+               <para remap="#PCDATA"> 
+                  <phrase id="phrsd77e52" remap="cmd"> Aller maintenant dans out/sample/pdf puis ouvrer le magnifique PDF que vous venez de fabriquer :) </phrase> 
+               </para>
+            </listitem>
+		       </orderedlist>
+	        <itemizedlist>
+            <title>Related links</title>
+            <listitem>
+               <para>
+                  <xref linkend="Publication" id="xrefd77e60" remap="link"/>
+               </para>
+            </listitem>
+         </itemizedlist>
+      </section>
+   </section>
+</article>

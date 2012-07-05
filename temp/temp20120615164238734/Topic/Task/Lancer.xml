@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?><?workdir /C:\Documents and Settings\stage\Bureau\DITA-OT1.5.4\temp\temp20120615164238734\Topic\Task?><?path2project ..\..\?><task xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="lancer" xml:lang="fr-FR" ditaarch:DITAArchVersion="1.2" domains="(topic task)                            (topic hi-d)                             (topic ut-d)                             (topic indexing-d)                            (topic hazard-d)                            (topic abbrev-d)                            (topic pr-d)                             (topic sw-d)                            (topic ui-d)                            (topic task strictTaskbody-c)    " class="- topic/topic task/task " xtrf="C:\Documents and Settings\stage\Bureau\DITA-OT1.5.4\samples\Topic\Task\Lancer.dita" xtrc="task:1">
+	<title class="- topic/title " xtrf="C:\Documents and Settings\stage\Bureau\DITA-OT1.5.4\samples\Topic\Task\Lancer.dita" xtrc="title:1">Lancer Eclipse</title>
+	<prolog class="- topic/prolog " xtrf="C:\Documents and Settings\stage\Bureau\DITA-OT1.5.4\samples\Topic\Task\Lancer.dita" xtrc="prolog:1">
+		<author class="- topic/author " xtrf="C:\Documents and Settings\stage\Bureau\DITA-OT1.5.4\samples\Topic\Task\Lancer.dita" xtrc="author:1">stage</author>
+	</prolog>
+	<taskbody class="- topic/body task/taskbody " xtrf="C:\Documents and Settings\stage\Bureau\DITA-OT1.5.4\samples\Topic\Task\Lancer.dita" xtrc="taskbody:1"/>
+	
+	
+	
+	
+<related-links class="- topic/related-links "><linkpool class="- topic/linkpool " xtrc="topicref:3" xtrf="C:\Documents and Settings\stage\Bureau\DITA-OT1.5.4\samples\hierarchy.ditamap"><link class="- topic/link " mapclass="- map/topicref " type="topic" xtrc="topicref:1" xtrf="C:\Documents and Settings\stage\Bureau\DITA-OT1.5.4\samples\hierarchy.ditamap" href="../../Topic/Documentation.xml" role="parent"><?ditaot usertext?><linktext class="- topic/linktext "><?ditaot gentext?>Documentation</linktext><?ditaot genshortdesc?><desc class="- topic/desc ">Je vais vous expliqué comment créé une doc a partir d'éclipse</desc></link></linkpool></related-links>
+</task>

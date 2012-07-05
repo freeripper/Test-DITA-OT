@@ -1,0 +1,45 @@
+
+.ad l
+
+.ll 72
+
+.ce 1000
+\fBInstallation d'Eclipse\fR
+.ce 0
+
+.sp 2
+Un ordinateur sous windows, une connection internet.
+.sp 2
+Notre but ici vas être d'instaler Eclipse sur votre machine.
+.sp 2
+1. Verifier que JAVA est bien installer sur votre machine sinon
+   suivre le premier lien.logo JAVA
+.sp 2
+2. Telecharger Eclipse et déziper le. (2éme lien)logo Eclipse
+.sp 2
+3. Télécharger le fichier de traduction Babel (3éme lien)
+.sp 2
+4. Déziper le fichier Babel et mettre les fichier extrait dans
+   les bon dossier d'Eclipse
+.sp 2
+5. Télécharger DITA-OP (4émé lien Seulement l'étatpe "Downloading
+   the plugins zip file")
+.sp 2
+6. Faire comme l'étape 4
+.sp 2
+Normalement Eclipse est installer sur votre machine et prét a
+fonctionner.
+.sp 2
+Sujet parent : Documentation
+.sp 2
+\fBInformation associée\fR
+.br
+http://www.java.com/fr/download/
+.br
+http://www.eclipse.org/downloads/download.php?file=/technology/epp/downloads/release/indigo/SR2/eclipse-jee-indigo-SR2-win32.zip
+.br
+http://download.eclipse.org/technology/babel/babel_language_packs/R0.9.1/indigo/indigo.php
+.br
+http://www.dita-op.org/documentation/downloading-the-editor/
+.br
+francois.rousset@ymmail.com

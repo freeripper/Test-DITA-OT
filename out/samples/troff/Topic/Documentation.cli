@@ -1,0 +1,32 @@
+
+.ad l
+
+.ll 72
+
+.ce 1000
+\fBDocumentation\fR
+.ce 0
+
+.sp 2
+Le but de cette première Doc vas être de vous expliquer comment
+installer Eclipse sur votre machine puis de crée de la
+documentation a partir de là.
+.sp 2
+1. Installer Eclipse
+.sp 2
+2. Lancer Eclipse
+.sp 2
+3. Créer une documentation
+.sp 2
+4. La sortir au format voulu
+.sp 2
+   Installation d'Eclipse
+.br
+
+.sp 2
+   Lancer Eclipse
+.br
+
+.sp 2
+
+.br

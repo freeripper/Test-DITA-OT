@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd" >
+<task id="PDF" xml:lang="fr-FR">
+	<title>PDF</title>
+	<prolog>
+		<author>stage</author>
+	</prolog>
+	<taskbody>
+		<prereq>Des fichier .dita et un fichier .ditamap</prereq>
+		<context> <p>Notre but ici vas être de créer un PDF à partir des differents document que vous aurez réalisé.</p></context>
+		<steps>
+			<step> <cmd> Aller dans le dossier DITA-OT1.5.4 </cmd> </step>
+			<step> <cmd> Double cliqué sur startcmd.bat</cmd> </step>
+			<step> <cmd> Dans la console qui vient de se lancer taper ant all -f build_demo.xml </cmd> </step>
+			<step> <cmd> appuié sur Entrée et attendre l'affichage du "BUILD SUCCESSFUL" </cmd> </step>
+			<step> <cmd> Aller maintenant dans out/sample/pdf puis ouvrer le magnifique PDF que vous venez de fabriquer :) <image href="../../../var/lib/dpkg/alternatives/start-here.svg"></image> </cmd> </step>
+		</steps>
+	</taskbody>
+</task>

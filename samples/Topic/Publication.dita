@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="Publication" xml:lang="fr-FR">
+	<title>Publication</title>
+	<shortdesc>Je vais vous expliqué comment publier la doc a partir de DITA-OT</shortdesc>
+	<prolog>
+		<author>stage</author>
+	</prolog>
+	<body>
+	<p> Le but de cette seconde doc vas être de vous expliquer comment publier vos document à partir des .dita et des .ditamap</p>
+	
+	</body>
+	<related-links>
+		<linklist>
+			<link> <linktext>PDF</linktext> <desc>"Topic/Task/PDF.dita"</desc> </link>
+		</linklist>
+	</related-links>
+</topic>
