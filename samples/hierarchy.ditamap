@@ -7,14 +7,12 @@
 <!-- (C) Copyright IBM Corporation 2001, 2005. All Rights Reserved.
  *-->
 <map title="Documentation de création de Doc avec Dita">
-
-<topicref href="Topic/Documentation.dita" type="topic">
-  <topicref href="Topic/Task/Installation.dita" type="task"/>
-  <topicref href="Topic/Task/Lancer.dita" type="task"/>
-</topicref>
-
-<topicref href="Topic/Publication.dita" type="topic">
-	<topicref href="Topic/Task/PDF.dita" type="task"/>
-</topicref>
-
+    <topicref href="Topic/Documentation.dita" type="topic">
+        <topicref href="Topic/Task/Installation.dita" type="task"/>
+        <topicref href="Topic/Task/Lancer.dita" type="task"/>
+    </topicref>
+    <topicref href="Topic/Publication.dita" type="topic">
+        <topicref href="Topic/Task/PDF.dita" type="task"/>
+    </topicref>
+    <topicref href="Topic/test.dita" type="topic"/>
 </map>

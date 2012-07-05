@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="topic_ic3_gy1_tg">
+  <title>Test</title>
+  <body>
+    <p>Topic paragraph</p>
+    <p>plop</p>
+    <!--blablabla-->
+  </body>
+  <related-links>
+    <link href="../git/Test-DITA-OT/samples/Topic/Documentation.dita" format="xml"/>
+  </related-links>
+</topic>

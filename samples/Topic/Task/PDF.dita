@@ -13,7 +13,7 @@
 			<step> <cmd> Double cliqué sur startcmd.bat</cmd> </step>
 			<step> <cmd> Dans la console qui vient de se lancer taper ant all -f build_demo.xml </cmd> </step>
 			<step> <cmd> appuié sur Entrée et attendre l'affichage du "BUILD SUCCESSFUL" </cmd> </step>
-			<step> <cmd> Aller maintenant dans out/sample/pdf puis ouvrer le magnifique PDF que vous venez de fabriquer :) </cmd> </step>
+			<step> <cmd> Aller maintenant dans out/sample/pdf puis ouvrer le magnifique PDF que vous venez de fabriquer :) <image href="../../../var/lib/dpkg/alternatives/start-here.svg"></image> </cmd> </step>
 		</steps>
 	</taskbody>
 </task>
