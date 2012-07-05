@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="Documentation" xml:lang="fr-FR">
+	<title>Documentation</title>
+	<prolog>
+		<author>stage</author>
+	</prolog>
+	<body>
+		<p>Le but de cette première Doc vas être de vous expliquer comment installer Eclipse sur votre machine puis de crée de la documentation a partir de là.</p>
+		<p>
+		<ol>
+		<li > Installer Eclipse </li>
+		<li>Lancer Eclipse</li>
+		<li>Créer une documentation</li>
+		<li>La sortir au format voulu</li>
+		</ol>
+		</p>
+	</body>
+	
+	<related-links>
+		<linklist>
+			<link> <linktext>Installation</linktext> <desc>"Topic/Task/Instalation.dita"</desc> </link>
+			<link> <linktext>"Topic/Task/Lancer.dita"</linktext> </link>
+		</linklist>
+	</related-links>
+	
+</topic>
