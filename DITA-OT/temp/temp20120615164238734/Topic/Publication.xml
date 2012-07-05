@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?><?workdir /C:\Documents and Settings\stage\Bureau\DITA-OT1.5.4\temp\temp20120615164238734\Topic?><?path2project ..\?><topic xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="Publication" xml:lang="fr-FR" ditaarch:DITAArchVersion="1.2" domains="(topic hi-d)                             (topic ut-d)                             (topic indexing-d)                            (topic hazard-d)                            (topic abbrev-d)                            (topic pr-d)                             (topic sw-d)                            (topic ui-d)    " class="- topic/topic " xtrf="C:\Documents and Settings\stage\Bureau\DITA-OT1.5.4\samples\Topic\Publication.dita" xtrc="topic:1">
+	<title class="- topic/title " xtrf="C:\Documents and Settings\stage\Bureau\DITA-OT1.5.4\samples\Topic\Publication.dita" xtrc="title:1">Publication</title>
+	<shortdesc class="- topic/shortdesc " xtrf="C:\Documents and Settings\stage\Bureau\DITA-OT1.5.4\samples\Topic\Publication.dita" xtrc="shortdesc:1">Je vais vous expliqué comment publier la doc a partir de DITA-OT</shortdesc>
+	<prolog class="- topic/prolog " xtrf="C:\Documents and Settings\stage\Bureau\DITA-OT1.5.4\samples\Topic\Publication.dita" xtrc="prolog:1">
+		<author class="- topic/author " xtrf="C:\Documents and Settings\stage\Bureau\DITA-OT1.5.4\samples\Topic\Publication.dita" xtrc="author:1">stage</author>
+	</prolog>
+	<body class="- topic/body " xtrf="C:\Documents and Settings\stage\Bureau\DITA-OT1.5.4\samples\Topic\Publication.dita" xtrc="body:1">
+	<p class="- topic/p " xtrf="C:\Documents and Settings\stage\Bureau\DITA-OT1.5.4\samples\Topic\Publication.dita" xtrc="p:1"> Le but de cette seconde doc vas être de vous expliquer comment publier vos document à partir des .dita et des .ditamap</p>
+	
+	</body>
+	<related-links class="- topic/related-links " xtrf="C:\Documents and Settings\stage\Bureau\DITA-OT1.5.4\samples\Topic\Publication.dita" xtrc="related-links:1"><linkpool class="- topic/linkpool " xtrc="topicref:4" xtrf="C:\Documents and Settings\stage\Bureau\DITA-OT1.5.4\samples\hierarchy.ditamap"><linkpool class="- topic/linkpool " xtrc="topicref:4" xtrf="C:\Documents and Settings\stage\Bureau\DITA-OT1.5.4\samples\hierarchy.ditamap"><link class="- topic/link " mapclass="- map/topicref " type="task" xtrc="topicref:5" xtrf="C:\Documents and Settings\stage\Bureau\DITA-OT1.5.4\samples\hierarchy.ditamap" href="../Task/PDF.xml" role="child"/></linkpool></linkpool>
+		<linklist class="- topic/linklist " xtrf="C:\Documents and Settings\stage\Bureau\DITA-OT1.5.4\samples\Topic\Publication.dita" xtrc="linklist:1">
+			<link class="- topic/link " xtrf="C:\Documents and Settings\stage\Bureau\DITA-OT1.5.4\samples\Topic\Publication.dita" xtrc="link:1"/>
+		</linklist>
+	</related-links>
+</topic>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?><?workdir /C:\Documents and Settings\stage\Bureau\DITA-OT1.5.4\temp\temp20120615164740562\Topic?><?path2project ..\?><topic xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="Documentation" xml:lang="fr-FR" ditaarch:DITAArchVersion="1.2" domains="(topic hi-d)                             (topic ut-d)                             (topic indexing-d)                            (topic hazard-d)                            (topic abbrev-d)                            (topic pr-d)                             (topic sw-d)                            (topic ui-d)    " class="- topic/topic " xtrf="C:\Documents and Settings\stage\Bureau\DITA-OT1.5.4\samples\Topic\Documentation.dita" xtrc="topic:1">
+
+	<title class="- topic/title " xtrf="C:\Documents and Settings\stage\Bureau\DITA-OT1.5.4\samples\Topic\Documentation.dita" xtrc="title:1">Documentation</title>
+	<shortdesc class="- topic/shortdesc " xtrf="C:\Documents and Settings\stage\Bureau\DITA-OT1.5.4\samples\Topic\Documentation.dita" xtrc="shortdesc:1">Je vais vous expliqué comment créé une doc a partir d'éclipse</shortdesc>
+	<prolog class="- topic/prolog " xtrf="C:\Documents and Settings\stage\Bureau\DITA-OT1.5.4\samples\Topic\Documentation.dita" xtrc="prolog:1">
+		<author class="- topic/author " xtrf="C:\Documents and Settings\stage\Bureau\DITA-OT1.5.4\samples\Topic\Documentation.dita" xtrc="author:1">stage</author>
+	</prolog>
+	<body class="- topic/body " xtrf="C:\Documents and Settings\stage\Bureau\DITA-OT1.5.4\samples\Topic\Documentation.dita" xtrc="body:1">
+		<p class="- topic/p " xtrf="C:\Documents and Settings\stage\Bureau\DITA-OT1.5.4\samples\Topic\Documentation.dita" xtrc="p:1">Le but de cette première Doc vas être de vous expliqué comment installer Eclipse sur votre machine puis de crée de la documentation a partir de là.</p>
+		<p class="- topic/p " xtrf="C:\Documents and Settings\stage\Bureau\DITA-OT1.5.4\samples\Topic\Documentation.dita" xtrc="p:2">
+		
+		<ol class="- topic/ol " xtrf="C:\Documents and Settings\stage\Bureau\DITA-OT1.5.4\samples\Topic\Documentation.dita" xtrc="ol:1">
+		<li class="- topic/li " xtrf="C:\Documents and Settings\stage\Bureau\DITA-OT1.5.4\samples\Topic\Documentation.dita" xtrc="li:1">Installer Eclipse <foreign class="- topic/foreign " xtrf="C:\Documents and Settings\stage\Bureau\DITA-OT1.5.4\samples\Topic\Documentation.dita" xtrc="foreign:1"> <link class="- topic/link " type="" format="" scope="" importance="" role=""/> </foreign> </li>
+		<li class="- topic/li " xtrf="C:\Documents and Settings\stage\Bureau\DITA-OT1.5.4\samples\Topic\Documentation.dita" xtrc="li:2">Lancer Eclipse</li>
+		<li class="- topic/li " xtrf="C:\Documents and Settings\stage\Bureau\DITA-OT1.5.4\samples\Topic\Documentation.dita" xtrc="li:3">Créer une documentation</li>
+		<li class="- topic/li " xtrf="C:\Documents and Settings\stage\Bureau\DITA-OT1.5.4\samples\Topic\Documentation.dita" xtrc="li:4">La sortir au format voulu</li>
+		</ol>
+		</p>
+	</body>
+	
+	<related-links class="- topic/related-links " xtrf="C:\Documents and Settings\stage\Bureau\DITA-OT1.5.4\samples\Topic\Documentation.dita" xtrc="related-links:1"><linkpool class="- topic/linkpool " xtrc="topicref:1" xtrf="C:\Documents and Settings\stage\Bureau\DITA-OT1.5.4\samples\hierarchy.ditamap"><linkpool class="- topic/linkpool " xtrc="topicref:1" xtrf="C:\Documents and Settings\stage\Bureau\DITA-OT1.5.4\samples\hierarchy.ditamap"><link class="- topic/link " mapclass="- map/topicref " type="task" xtrc="topicref:2" xtrf="C:\Documents and Settings\stage\Bureau\DITA-OT1.5.4\samples\hierarchy.ditamap" href="../Topic/Task/Installation.xml" role="child"><?ditaot usertext?><linktext class="- topic/linktext "><?ditaot gentext?>Installation d'Eclipse</linktext></link><link class="- topic/link " mapclass="- map/topicref " type="task" xtrc="topicref:3" xtrf="C:\Documents and Settings\stage\Bureau\DITA-OT1.5.4\samples\hierarchy.ditamap" href="../Topic/Task/Lancer.xml" role="child"><?ditaot usertext?><linktext class="- topic/linktext "><?ditaot gentext?>Lancer Eclipse</linktext></link></linkpool></linkpool>
+		<linklist class="- topic/linklist " xtrf="C:\Documents and Settings\stage\Bureau\DITA-OT1.5.4\samples\Topic\Documentation.dita" xtrc="linklist:1">
+			<link class="- topic/link " xtrf="C:\Documents and Settings\stage\Bureau\DITA-OT1.5.4\samples\Topic\Documentation.dita" xtrc="link:2"/>
+			<link class="- topic/link " xtrf="C:\Documents and Settings\stage\Bureau\DITA-OT1.5.4\samples\Topic\Documentation.dita" xtrc="link:3"/>
+		</linklist>
+	</related-links>
+	
+</topic>

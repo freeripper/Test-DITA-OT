@@ -1,0 +1,15 @@
+Processing started...
+Initialize log directory and file name...
+  [echo] Version: DITA Open Toolkit 1.5.4
+Validate and init input arguments...
+Processing ended.
+
+BUILD FAILED
+C:\Documents and Settings\stage\Bureau\DITA-OT1.5.4\build.xml:27: The following error occurred while executing this line:
+C:\Documents and Settings\stage\Bureau\DITA-OT1.5.4\build_init.xml:263: [DOTA002F][FATAL] Invalid input. This often means the input file is not specified correctly. Please provide the correct input.
+
+Number of Fatals : 1
+Number of Errors : 0
+Number of Warnings : 0
+
+Total time: 2 seconds

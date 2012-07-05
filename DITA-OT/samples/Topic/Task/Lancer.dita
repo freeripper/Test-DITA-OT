@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd" >
+<task id="lancer" xml:lang="fr-FR">
+	<title>Lancer Eclipse</title>
+	<prolog>
+		<author>stage</author>
+	</prolog>
+	<taskbody>
+	
+		<steps>
+			<step> <cmd> Faite un double clic sur l'icone d'éclipse sur votre bureau et attendre qu'Eclipse se lance </cmd> </step>
+			<step> <cmd> Cliquez sur Fichier/Nouveau/Projet </cmd></step>
+			<step> <cmd> remplissez les champs requis </cmd> </step>
+			<step> <cmd> hv....</cmd> </step>
+		</steps>
+	
+	</taskbody>
+	
+	
+	
+	
+</task>
